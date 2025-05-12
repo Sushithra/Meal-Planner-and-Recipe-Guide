@@ -15,4 +15,6 @@ NutriAI is a smart, user-friendly web application that offers personalized meal 
 
 <img src="Architecture.png" width="400"/>
 
+**Home Page**
 
+<img src="HomePage.png" width="400"/>
