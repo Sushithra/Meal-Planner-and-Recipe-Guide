@@ -1,73 +1,16 @@
-# Welcome to your Lovable project
+NutriAI is a smart, user-friendly web application that offers personalized meal planning, recipe suggestions, and fitness tracking tailored to individual dietary needs, preferences, and health goals. Powered by API integration and Firebase storage, it generates 7-day meal plans based on user-selected goals (weight gain, loss, maintenance), diet type (vegetarian, vegan, paleo), and allergy inputs.
 
-## Project info
+🌟 Key Features:
+🧠 Personalized Meal Planning – Dynamic plans based on user input and nutritional needs.
 
-**URL**: https://lovable.dev/projects/9e95d926-4230-4e26-bcfe-db26b6d89b9a
+📖 Recipe Guide – Detailed recipes with ingredients, instructions, and smart substitutions.
 
-## How can I edit this code?
+🏋️ Fitness Tracker – Track workouts and health metrics to complement your diet.
 
-There are several ways of editing your application.
+🔄 Calorie & Progress Tracker – Visual dashboards to monitor weekly progress and adjust plans.
 
-**Use Lovable**
+💬 Conversational Chatbot Interface – Interactive chatbot for goal setting and feedback collection.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9e95d926-4230-4e26-bcfe-db26b6d89b9a) and start prompting.
+Architecture
+![Architecture Diagram](Achitecture.png)
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9e95d926-4230-4e26-bcfe-db26b6d89b9a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
