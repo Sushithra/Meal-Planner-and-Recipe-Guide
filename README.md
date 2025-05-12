@@ -12,5 +12,5 @@ NutriAI is a smart, user-friendly web application that offers personalized meal 
 💬 Conversational Chatbot Interface – Interactive chatbot for goal setting and feedback collection.
 
 Architecture
-![Architecture Diagram](Achitecture.png)
+![Architecture Diagram](Architecture.png)
 
